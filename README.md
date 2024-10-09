@@ -6,3 +6,5 @@
 
 Dit project bevat een eenvoudige webpagina met een tabel van fictieve personen en een ongeordende lijst met hobby's.
 Het project bevat ook een CSS-bestand voor de opmaak van de pagina.
+
+duiawnhiu fnaiwunf iawifniawn fuiip
